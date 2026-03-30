@@ -1,27 +1,16 @@
 # EX-NO-6-EXPERIMENTAL-VERIFICATION-AND-SIMULATION-OF-ACTIVELPF-HPF-AND-BPF
-## 6 DESIGN OF ACTIVE LOW PASS, HIGH PASS AND BAND PASS FILTERS USING OP-AMP
-            
-**DATE:**  
+## EX-NO-6 DESIGN OF ACTIVE LOW PASS, HIGH PASS AND BAND PASS FILTERS USING OP-AMP
          
 ---
 
 ## AIM
-            
-**DATE:**  
+Obtain the frequency response of
+i)  First order Low Pass Filter (LPF) 
+ii)  First order High Pass Filter (HPF)
+iii)  Band pass filter
          
 ---
-
-## AIM and obtain the frequency response of
-
-i)	First order Low Pass Filter (LPF)
-ii)	First order High Pass Filter (HPF)
-iii)	Band pass filter
-
----
-
-** 6 A :- LOW PASS FILTER**
-
-
+## 6 A :- LOW PASS FILTER
 
 ## THEORY
 ## LOW PASS FILTER
@@ -61,6 +50,7 @@ S2 + 1.414 s + 1
  
 Now	Ao = 1 + (Rf / R1) = 1.586 = 1 + 0.586
 Let Ri = 10 KΩ, then Rf = 5.86 KΩ
+<img width="1600" height="1334" alt="image" src="https://github.com/user-attachments/assets/a8894fc2-9332-450f-8ee6-cf3ca0f759f7" />
 
 
 ## PROCEDURE
@@ -73,28 +63,14 @@ PROCEDURE - (LPF):
 5.	Calculate passband gain and plot the graph of frequency versus voltage gain & check the graph to get approximately the same characteristic as shown in the model graph.
 
 
-
 ## TABULATION
 
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+<img width="1048" height="1600" alt="image" src="https://github.com/user-attachments/assets/66337a72-870c-4d47-9562-ae1d5b7ba3a4" />
 		
-
 ---
 
-## OUT PUT WAVEFORM AND DISCUSSION 
+## OUTPUT WAVEFORM AND DISCUSSION 
+6<img width="1519" height="1161" alt="image" src="https://github.com/user-attachments/assets/1bb43faa-84af-4daf-805e-603a5ea5bcb1" />
 
 ---
 
@@ -144,6 +120,8 @@ S2 + 1.414 s + 1
  
 Now	Ao = 1 + (Rf / R1) = 1.586 = 1 + 0.586
 Let Ri = 10 KΩ, then Rf = 5.86 KΩ
+<img width="1600" height="994" alt="image" src="https://github.com/user-attachments/assets/64f2c7dc-d830-4de3-8cbe-b567e96b160f" />
+
 
 
 ## PROCEDURE
@@ -158,26 +136,13 @@ PROCEDURE - ( HPF):
 
 
 ## TABULATION
+<img width="1010" height="1600" alt="image" src="https://github.com/user-attachments/assets/d55da196-1c3d-4177-b748-2e636fceb13c" />
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
 
 ---
 
-## OUT PUT WAVEFORM AND DISCUSSION 
+## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1544" height="1170" alt="image" src="https://github.com/user-attachments/assets/b60a0387-b2bf-43bc-bde8-0d78af2bc1d3" />
 
 ---
 
@@ -228,6 +193,8 @@ Pass band Gain=4
 Now		Ao = 1 + (Rf / R1) 2-1=(Rf / Ri)
 Ri = Rf
 Let Ri = Rf = 10 KΩ
+<img width="1600" height="1145" alt="image" src="https://github.com/user-attachments/assets/9d14e467-7f31-405f-ab08-d3de31ea1df9" />
+
 
 
 ## PROCEDURE
@@ -245,24 +212,13 @@ PROCEDURE:BAND PASS FILTER
 ## TABULATION
 
 		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+<img width="1038" height="1600" alt="image" src="https://github.com/user-attachments/assets/754f5e93-63af-4fc4-94bd-ba06c03a5aad" />
+
 
 ---
 
-## OUT PUT WAVEFORM AND DISCUSSION 
+## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1600" height="1088" alt="image" src="https://github.com/user-attachments/assets/22b3c07c-2bd5-4fe3-9d6b-75b24ccedf3e" />
 
 ---
 ##RESULT:
